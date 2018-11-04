@@ -1,4 +1,4 @@
-Learn Deep Learning with PyTorch
+# Learn Deep Learning with PyTorch
 
 ### part1: Deep learning foundation
 - Chapter 2: PyTorch Basics
@@ -10,7 +10,7 @@ Learn Deep Learning with PyTorch
 - Chapter 3: Neural Networks
     - [Linear regression gradient descend](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/linear-regression-gradient-descend.ipynb)
     - [Logistic regression](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/logistic-regression/logistic-regression.ipynb)
-    - [多层神经网络，Sequential 和 Module](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/nn-sequential-module.ipynb)
+    - [Multi-layer neural network with Sequentioan Module](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/nn-sequential-module.ipynb)
     - [深层神经网络](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/deep-nn.ipynb)
     - [参数初始化方法](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/param_initialize.ipynb)
     - 优化算法
