@@ -1,30 +1,15 @@
-# 深度学习入门之PyTorch 
-
 Learn Deep Learning with PyTorch
 
-非常感谢您能够购买此书，这个github repository包含有[深度学习入门之PyTorch](https://item.jd.com/17915495606.html)的实例代码。由于本人水平有限，在写此书的时候参考了一些网上的资料，在这里对他们表示敬意。由于深度学习的技术在飞速的发展，同时PyTorch也在不断更新，且本人在完成此书的时候也有诸多领域没有涉及，所以这个repository会不断更新作为购买次书的一个后续服务，希望我能够在您深度学习的入门道路上提供绵薄之力。
-
-**注意：由于PyTorch版本更迭，书中的代码可能会出现bug，所以一切代码以该github中的为主。**
-
-![image.png](http://upload-images.jianshu.io/upload_images/3623720-7cc3a383f486d157.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-## 配置环境
-
-书中已经详细给出了如何基于Anaconda配置python环境，以及PyTorch的安装，如果你使用自己的电脑，并且有Nvidia的显卡，那么你可以愉快地进入深度学习的世界了，如果你没有Nvidia的显卡，那么我们需要一个云计算的平台来帮助我们学习深度学习之旅。[如何配置aws计算平台](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/aws.md)
+### part1: Deep learning foundation
+- Chapter 2: PyTorch Basics
+    - [Tensor and Variable](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/Tensor-and-Variable.ipynb)    
+    - [Autograd](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/autograd.ipynb)
+    - [Dynamic Graph](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/dynamic-graph.ipynb)
 
 
-**以下的课程目录和书中目录有出入，因为内容正在更新到第二版，第二版即将上线！！**
-## 课程目录
-### part1: 深度学习基础
-- Chapter 2: PyTorch基础
-    - [Tensor和Variable](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/Tensor-and-Variable.ipynb)    
-    - [自动求导机制](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/autograd.ipynb)
-    - [动态图与静态图](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/dynamic-graph.ipynb)
-
-
-- Chapter 3: 神经网络
-    - [线性模型与梯度下降](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/linear-regression-gradient-descend.ipynb)
-    - [Logistic 回归与优化器](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/logistic-regression/logistic-regression.ipynb)
+- Chapter 3: Neural Networks
+    - [Linear regression gradient descend](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/linear-regression-gradient-descend.ipynb)
+    - [Logistic regression](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/logistic-regression/logistic-regression.ipynb)
     - [多层神经网络，Sequential 和 Module](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/nn-sequential-module.ipynb)
     - [深层神经网络](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/deep-nn.ipynb)
     - [参数初始化方法](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/param_initialize.ipynb)
