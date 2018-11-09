@@ -2,55 +2,55 @@
 
 ### part1: Deep learning foundation
 - Chapter 2: PyTorch Basics
-    - [Tensor and Variable](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/Tensor-and-Variable.ipynb)    
-    - [Autograd](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/autograd.ipynb)
-    - [Dynamic Graph](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/dynamic-graph.ipynb)
+    - [Tensor and Variable](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/Tensor-and-Variable_en.ipynb)    
+    - [Autograd](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/autograd_en.ipynb)
+    - [Dynamic Graph](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter2_PyTorch-Basics/dynamic-graph_en.ipynb)
 
 
 - Chapter 3: Neural Networks
-    - [Linear regression gradient descend](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/linear-regression-gradient-descend.ipynb)
-    - [Logistic regression](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/logistic-regression/logistic-regression.ipynb)
-    - [Multi-layer neural network with Sequential Module](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/nn-sequential-module.ipynb)
-    - [Deep Neural Network](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/deep-nn.ipynb)
-    - [Parameter Initialization](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/param_initialize.ipynb)
+    - [Linear regression gradient descend](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/linear-regression-gradient-descend_en.ipynb)
+    - [Logistic regression](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/logistic-regression/logistic-regression_en.ipynb)
+    - [Multi-layer neural network with Sequential Module](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/nn-sequential-module_en.ipynb)
+    - [Deep Neural Network](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/deep-nn_en.ipynb)
+    - [Parameter Initialization](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/param_initialize_en.ipynb)
     - Optimization
-        - [SGD](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/sgd.ipynb)
-        - [Momentum](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/momentum.ipynb)
-        - [Adagrad](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/adagrad.ipynb)
-        - [RMSProp](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/rmsprop.ipynb)
-        - [Adadelta](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/adadelta.ipynb)
-        - [Adam](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/adam.ipynb)
+        - [SGD](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/sgd_en.ipynb)
+        - [Momentum](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/momentum_en.ipynb)
+        - [Adagrad](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/adagrad_en.ipynb)
+        - [RMSProp](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/rmsprop_en.ipynb)
+        - [Adadelta](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/adadelta_en.ipynb)
+        - [Adam](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter3_NN/optimizer/adam_en.ipynb)
 - Chapter 4: Convolutional neural network
-    - [PyTorch Convolution module](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/basic_conv.ipynb)
-    - [Batch normalization](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/batch-normalization.ipynb)
-    - [使用重复元素的深度网络，VGG](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/vgg.ipynb)
-    - [更加丰富化结构的网络，GoogLeNet](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/googlenet.ipynb)
-    - [Deep residual network，ResNet](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/resnet.ipynb)
-    - [Densely Connected Convolutional Networks，DenseNet](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/densenet.ipynb)
+    - [PyTorch Convolution module](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/basic_conv_en.ipynb)
+    - [Batch normalization](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/batch-normalization_en.ipynb)
+    - [使用重复元素的深度网络，VGG](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/vgg_en.ipynb)
+    - [更加丰富化结构的网络，GoogLeNet](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/googlenet_en.ipynb)
+    - [Deep residual network，ResNet](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/resnet_en.ipynb)
+    - [Densely Connected Convolutional Networks，DenseNet](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/densenet_en.ipynb)
     - 更好的训练卷积网络
-        - [Data augumentation](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/data-augumentation.ipynb)
-        - [Regularization](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/regularization.ipynb)
-        - [Learning Rate Decay](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/lr-decay.ipynb)
+        - [Data augumentation](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/data-augumentation_en.ipynb)
+        - [Regularization](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/regularization_en.ipynb)
+        - [Learning Rate Decay](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/lr-decay_en.ipynb)
 - Chapter 5: Recurrent neural network
-    - [Recurrent Neural Networks：LSTM with GRU](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/pytorch-rnn.ipynb)
-    - [RNN for Image classification](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/rnn-for-image.ipynb)
-    - [RNN Time Series Analysis](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/time-series/lstm-time-series.ipynb)
+    - [Recurrent Neural Networks：LSTM with GRU](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/pytorch-rnn_en.ipynb)
+    - [RNN for Image classification](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/rnn-for-image_en.ipynb)
+    - [RNN Time Series Analysis](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/time-series/lstm-time-series_en.ipynb)
     - Natural language processing：
-        - [Word Embedding](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/nlp/word-embedding.ipynb)
-        - [N-Gram Model](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/nlp/n-gram.ipynb)
-        - [Seq-LSTM Word Prediction](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/nlp/seq-lstm.ipynb)
+        - [Word Embedding](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/nlp/word-embedding_en.ipynb)
+        - [N-Gram Model](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/nlp/n-gram_en.ipynb)
+        - [Seq-LSTM Word Prediction](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter5_RNN/nlp/seq-lstm_en.ipynb)
 - Chapter 6: Generative Adversarial Network
-    - [Autoencoder](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter6_GAN/autoencoder.ipynb)
-    - [Variational Autoencoder](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter6_GAN/vae.ipynb)
-    - [Generative Adversarial Network](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter6_GAN/gan.ipynb)
+    - [Autoencoder](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter6_GAN/autoencoder_en.ipynb)
+    - [Variational Autoencoder](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter6_GAN/vae_en.ipynb)
+    - [Generative Adversarial Network](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter6_GAN/gan_en.ipynb)
     - Deep convolutional generative adversarial networks (DCGANs) Generating a Face
 - Chapter 7: 深度强化学习
-    - [Q Learning](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter7_RL/q-learning-intro.ipynb)
-    - [Open AI gym](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter7_RL/open_ai_gym.ipynb)
-    - [Deep Q-networks](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter7_RL/dqn.ipynb)
+    - [Q Learning](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter7_RL/q-learning-intro_en.ipynb)
+    - [Open AI gym](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter7_RL/open_ai_gym_en.ipynb)
+    - [Deep Q-networks](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter7_RL/dqn_en.ipynb)
 - Chapter 8: PyTorch高级
-    - [tensorboard Visualization](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter8_PyTorch-Advances/tensorboard.ipynb)
-   - [Data IO](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter8_PyTorch-Advances/data-io.ipynb)
+    - [tensorboard Visualization](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter8_PyTorch-Advances/tensorboard_en.ipynb)
+   - [Data IO](https://github.com/avinayak/code-of-learn-deep-learning-with-pytorch/blob/master/chapter8_PyTorch-Advances/data-io_en.ipynb)
     - autograd.function 的介绍
     - 数据并行和多 GPU
     - 使用 ONNX 转化为 Caffe2 模型
